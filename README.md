@@ -1,0 +1,3 @@
+# Checkers
+
+Checkers implementation.
